@@ -1,3 +1,4 @@
 # jellobagel-test-public
 
-capybara
+- capybara
+- snail
